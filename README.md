@@ -17,6 +17,15 @@ Currently an SMK student diving deep into the world of web development. I love s
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/not4l_/)
 
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlbarFahrezi/AlbarFahrezi/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
 ### Badges
 
 <b>My GitHub Stats</b>
