@@ -15,9 +15,8 @@ Currently an SMK student diving deep into the world of web development. I love s
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Not4L" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-<a href="https://www.github.com/Not4L" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Not4L?logo=github&style=for-the-badge&color=ffffff&labelColor=171717" /></a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/not4l_/)
+
 ### Badges
 
 <b>My GitHub Stats</b>
