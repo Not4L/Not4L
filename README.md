@@ -1,8 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Alzidan
 ================================================================================================================================
 
-Web Developer | Tech Enthusiast | Video editor
-----------------------------------------------
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Developer;Editor;Game+Enthusiast)](https://git.io/typing-svg)
 
 Currently an SMK student diving deep into the world of web development. I love staying updated with the tech industry and building projects that bridge the gap between code and design. When I’m not in front of an IDE, I’m editing videos, finding creative ways to showcase my projects and hobbies
 
